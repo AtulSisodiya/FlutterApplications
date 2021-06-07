@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468992512932",
+    "project_id": "messedup-66a85",
+    "storage_bucket": "messedup-66a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468992512932:android:e646520cbc381c8e34a731",
+        "android_client_info": {
+          "package_name": "com.example.messedup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468992512932-lilp0k02c9bfbssnet0vgm681cg6l6n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messedup",
+            "certificate_hash": "6d09883a1c8604f16b0be66b41ce5d53174ee2c4"
+          }
+        },
+        {
+          "client_id": "468992512932-8vlmaji5pc78rbm0aimeu8953i3elqga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_BtcNv5LiOQ7ckZh0JvGROaWWI07-Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468992512932-8vlmaji5pc78rbm0aimeu8953i3elqga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
